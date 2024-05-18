@@ -1,0 +1,15 @@
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.csproj.AssemblyReference.cache
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.AssemblyInfoInputs.cache
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.AssemblyInfo.cs
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.csproj.CoreCompileInputs.cache
+C:\материалы\обучение\гб\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.exe
+C:\материалы\обучение\гб\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.deps.json
+C:\материалы\обучение\гб\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.runtimeconfig.json
+C:\материалы\обучение\гб\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.dll
+C:\материалы\обучение\гб\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.pdb
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.dll
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\refint\FirstBlockFinalWork.dll
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.pdb
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.genruntimeconfig.cache
+C:\материалы\обучение\гб\FirstBlockFinalWork\obj\Debug\net6.0\ref\FirstBlockFinalWork.dll
